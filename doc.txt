@@ -1,0 +1,1 @@
+Create new file that contain the GIT information.
